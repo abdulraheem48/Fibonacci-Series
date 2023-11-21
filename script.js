@@ -1,4 +1,4 @@
-// script.js
+// script.js  
 function calculateFibonacci() {
   var n = parseInt(prompt("Please enter a number"));
   var f = 0;
